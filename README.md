@@ -22,7 +22,7 @@ This app enables you to create and manage a list of budget online or offline
 
 ## Example
 
-![Image](https://ik.imagekit.io/devdojo/readme_gif/backendemployee_kePmCKeXa.gif)
+![Image](https://ik.imagekit.io/devdojo/readme_gif/fitnesstracker_Hq8GPzEF2V.gif)
 
 ## Project Owner
 
